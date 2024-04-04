@@ -1,0 +1,8 @@
+/* styles.css */
+@media screen and (max-width: 600px) {
+    /* Adjust styles for mobile screens */
+    /* Example: Stack content vertically */
+    body {
+        font-size: 16px;
+    }
+}
